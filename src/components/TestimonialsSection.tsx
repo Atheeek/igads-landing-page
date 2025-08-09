@@ -63,7 +63,7 @@ export const TestimonialsSection: React.FC = () => {
     { id: 1, name: "Arjun Nair", location: "Kochi, Kerala", rating: 5, text: "Absolutely amazing experience! Got my iPhone 14 Pro at an incredible price. The device was in perfect condition.", avatar: "AN", verified: true },
     { id: 2, name: "Priya Sharma", location: "Bangalore, Karnataka", rating: 5, text: "Best place to buy pre-owned Apple devices. The MacBook I purchased works flawlessly and came with all original accessories.", avatar: "PS", verified: true },
     { id: 3, name: "Rohit Menon", location: "Calicut, Kerala", rating: 5, text: "Quick delivery, excellent packaging, and the device exceeded my expectations. The exchange process was seamless.", avatar: "RM", verified: true },
-    { id: 4, name: "Sneha Reddy", location: "Chennai, Tamil Nadu", rating: 5, text: "Outstanding service! The Apple Watch I ordered arrived in mint condition. The team was very helpful and responsive.", avatar: "SR", verified: true }
+    { id: 4, name: "Sneha ", location: "Chennai, Tamil Nadu", rating: 5, text: "Outstanding service! The Apple Watch I ordered arrived in mint condition. The team was very helpful and responsive.", avatar: "SR", verified: true }
   ];
 
   const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [Autoplay({ delay: 4000, stopOnInteraction: false })]);
