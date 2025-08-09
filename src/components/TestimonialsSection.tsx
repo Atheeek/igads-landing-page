@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
+import  { useCallback, useEffect, useState } from "react";
 import { Star, Quote } from "lucide-react";
 // **FIX 2:** Correctly import 'EmblaCarouselType' from the core package
 import { type EmblaCarouselType } from "embla-carousel";

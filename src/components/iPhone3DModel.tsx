@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import  { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import { useGLTF, Environment, OrbitControls, Html } from "@react-three/drei";
 import { useIsMobile } from "@/hooks/useIsMobile";
