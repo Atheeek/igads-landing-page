@@ -5,7 +5,7 @@ A fully responsive and modern landing page built for **IGADS** using **React** a
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-deployed-site-link.com)
+[View Live Demo](https://igads.vercel.app)
 
 ---
 
